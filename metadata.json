@@ -1,0 +1,6 @@
+{
+  "name": "ETERNIVERSE-SEC-GUARD",
+  "description": "Nadrzędna warstwa defensywna jądra ETERNIVERSE - AuthMatrix, CipherStream, SentinelNode, monitorowanie anomalii i centrum zarządzania bezpieczeństwem Zero-Trust.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
